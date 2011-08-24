@@ -1,0 +1,14 @@
+h1. LPTMonitor.NET
+
+LPTMonitor.NET is a parallel port input/output monitoring tool for Windows.
+
+With LPTMonitor.NET you’ll be able to:
+
+- Monitor the data, status and control registers, pin by pin.
+- Turn individual pins on or off.
+- Get the decimal value of any register.
+- Simultaneously monitor multiple parallel ports (0×278, 0×378, 0x3BC).
+
+Back when I created this app, I needed a simple way to debug the parallel port and couldn’t find a tool to do this in an easy way. That’s why I ended up writing my own.
+
+LPTMonitor.NET is a .NET application written in C# using Windows.Forms.
