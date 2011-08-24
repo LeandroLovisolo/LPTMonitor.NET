@@ -1,6 +1,6 @@
-   Copyright 2006 Leandro Ezequiel Lovisolo <cafesolo@gmail.com>
+   Copyright 2006 Leandro Lovisolo <hi@leandro.me>
 
-       http://www.cafesolo.com.ar
+       http://leandro.me
 
    Licensed under the Apache License, Version 2.0 (the "License");
    you may not use this file except in compliance with the License.
