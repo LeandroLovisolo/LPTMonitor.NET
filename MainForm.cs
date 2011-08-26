@@ -569,8 +569,8 @@ namespace LPTMonitor
 				"\n" +
 				"A .NET parallel port input/output test tool.\n" +
 				"\n" +
-				"Copyright (C) 2006 by Leandro Ezequiel Lovisolo <cafesolo@gmail.com>\n" +
-				"http://www.cafesolo.com.ar\n" +
+				"Copyright (C) 2006 by Leandro Lovisolo <hi@leandro.me>\n" +
+				"http://leandro.me\n" +
 				"\n" +
 				"This software is published under the terms of the Apache License, Version 2.0.\n" +
                 "\n" +
