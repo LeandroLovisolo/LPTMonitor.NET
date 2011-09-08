@@ -11,7 +11,7 @@ With LPTMonitor.NET you’ll be able to:
 
 Screenshot:
 
-!https://github.com/leandrodotme/LPTMonitor.NET/raw/master/screenshot.jpg(Screenshot)!
+!https://github.com/LeandroLovisolo/LPTMonitor.NET/raw/master/screenshot.jpg(Screenshot)!
 
 Back when I created this app, I needed a simple way to debug the parallel port and couldn’t find a tool to do this in an easy way. That’s why I ended up writing my own.
 
